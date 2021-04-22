@@ -119,11 +119,14 @@ body::before {
     min-height: 100vh;
 }
 
+
 .movies__item {
     width: 33.33333%;
     border-radius: 4px;
     position: relative;
 }
+
+
 
 .movies__item-title {
     border-right: 1px solid #eee;
@@ -259,3 +262,4 @@ body::before {
         width: 100%;
     }
 }
+
